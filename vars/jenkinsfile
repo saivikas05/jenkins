@@ -1,0 +1,4 @@
+// Jenkinsfile
+@Library('first-shared-lib') _
+welcomeJob.call "saivikas"
+welcomeJob.greet "saivikas"
